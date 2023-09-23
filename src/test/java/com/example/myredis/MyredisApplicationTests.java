@@ -19,7 +19,7 @@ class MyredisApplicationTests {
         System.out.println("");
         System.out.println("jajja");
         System.out.println("cold");
-        System.out.println("hotttt");
+        System.out.println("hot");
 
 
     }
