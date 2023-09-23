@@ -17,6 +17,7 @@ class MyredisApplicationTests {
         log.info("hallo",k1);
         System.out.println(k1);
         System.out.println("");
+        System.out.println("jajja");
 
 
     }
